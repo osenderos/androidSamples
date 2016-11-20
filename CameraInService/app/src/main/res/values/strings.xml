@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Vehicle tracking</string>
+    <string name="action_settings">Settings</string>
+    <string name="viulibLogoDescription">Viulib logo as header</string>
+    <string name="spinner_label_text">Loading configuration</string>
+    <string name="hello">Hello World, CameraInService</string>
+</resources>
